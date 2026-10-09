@@ -21,16 +21,23 @@ The workbook includes the original CPI dataset, a reshaped/unpivoted table for c
 - Compare selected categories before and after the onset of COVID-19 (using **March 2020** as the reference point).
 - Explore how the Fuel and Light index moves alongside transport, education, food and beverages, household goods and services, non-alcoholic beverages, and cereals.
 - Organize the data into analysis-friendly tables and derive insights from summaries and comparisons.
-## Build an interactive Excel with slicers for year, month, sector, and category.
-<img width="327" height="122" alt="image" src="https://github.com/user-attachments/assets/61630f5c-83b1-4b73-af0e-e2499fc2b442" />
-## Add clearly defined year-over-year inflation calculations.
-<img width="902" height="612" alt="image" src="https://github.com/user-attachments/assets/b8d54e48-7902-4d84-8998-2630babedccf" />
-*Inflation peaked at approximately 7% in 2022*
-*food and fuel price pressures, before declining to around 3% in 2023.*
+## Build an interactive Excel with slicers for year, month, sector, and category. 
+
+<img width="327" height="122" alt="image" src="https://github.com/user-attachments/assets/61630f5c-83b1-4b73-af0e-e2499fc2b442" /> 
+
+## Add clearly defined year-over-year inflation calculations. 
+
+<img width="902" height="612" alt="image" src="https://github.com/user-attachments/assets/b8d54e48-7902-4d84-8998-2630babedccf" /> 
+
+**Inflation peaked at approximately 7% in 2022**
+**food and fuel price pressures, before declining to around 3% in 2023.**
+
 ## Broader Category Wise Inflation Rate
-<img width="710" height="89" alt="image" src="https://github.com/user-attachments/assets/e33a32e1-e4ba-4daf-b8d9-e4f293a7d6f6" />
-*Food contributes the highest share (44.44%)*
-*Luxury (14.81%) and Clothing (11.11%)*
+<img width="710" height="89" alt="image" src="https://github.com/user-attachments/assets/e33a32e1-e4ba-4daf-b8d9-e4f293a7d6f6" /> 
+
+
+**Food contributes the highest share (44.44%)**
+**Luxury (14.81%) and Clothing (11.11%)**
 ## Workbook Contents
 
 | Worksheet | Purpose |
@@ -89,13 +96,17 @@ Typical preparation steps for this kind of analysis include:
 - The COVID-19 comparison is observational. Changes before and after March 2020 should not automatically be interpreted as caused only by the pandemic.
 - Correlation indicates association, not causation. Results can also depend on the period, frequency, and method used to calculate the series.
 - Please verify the source, base year, and methodology of the original CPI data before using the analysis for formal research or policy conclusions.
+ 
  <img width="882" height="480" alt="image" src="https://github.com/user-attachments/assets/12997261-9d06-4d16-b61f-a7f53d687755" />
-vegetable prices dropping by approximately 13% in December 2022
-fruit prices rising by around 7% in February 2023.
+
+**vegetable prices dropping by approximately 13% in December 2022**
+**fruit prices rising by around 7% in February 2023.**
+
 ## Inflation Before & After Covid-19 
 
-<img width="1020" height="593" alt="image" src="https://github.com/user-attachments/assets/50231338-55e6-4230-8e9f-db61c4a1db15" />
-*Food inflation increased from 4% in 2019 to 8% in 2020, while health inflation declined from 7% to 4%. In 2021*
+<img width="1020" height="593" alt="image" src="https://github.com/user-attachments/assets/50231338-55e6-4230-8e9f-db61c4a1db15" /> 
+
+**Food inflation increased from 4% in 2019 to 8% in 2020, while health inflation declined from 7% to 4%. In 2021**
 
 ##  How to Explore
 
